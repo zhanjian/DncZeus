@@ -88,7 +88,7 @@ ASP.NET Core 的知识能确保你可以看懂和了解后端是如何实现和�
 首先请确保你本地开发环境已安装了git管理工具，然后在需要存放本项目的目录打开git命令行工具**Git Bash Here**，在命令行中输入如下命令：
 
 ```
-git clone https://github.com/lampo1024/DncZeus.git
+git clone git@github.com:zhanjian/DncZeus.git
 ```
 
 以上命令就把DncZeus的远程代码拉取到你的本地开发机上。
